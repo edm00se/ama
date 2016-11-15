@@ -1,16 +1,16 @@
-# Ask me anything!
+# Ask Me Anything
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I get a lot of questions by email. This way anyone can read the answer!
+If you have questions for me, this is a way anyone can read the answer!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means _virtually anything_. Personal questions. Money. Work. Life. Code. Whatever. Just nothing so crude I couldn't answer without my mother being able to read it.
 
 -
 
 ### Guidelines
 
-- Ensure your question hasn't already been answered.
+- Ensure your question haven't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
