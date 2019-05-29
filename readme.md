@@ -2,11 +2,11 @@
 
 [![GitHub issues](https://img.shields.io/github/issues-closed-raw/edm00se/ama.svg?label=answered%20so%20far&style=flat)](https://github.com/edm00se/ama/issues)
 
-[![Ask a Question](http://wes.io/c23W/boo-ya)](../../issues/new)
+[![Ask a Question](https://wes.io/c23W/boo-ya)](../../issues/new)
 
-[![Read all Questions](http://wes.io/c21W/allllll-of-them)](../../issues?q=is%3Aissue+is%3Aclosed)
+[![Read all Questions](https://wes.io/c21W/allllll-of-them)](../../issues?q=is%3Aissue+is%3Aclosed)
 
-[![Read the Great Questions](http://wes.io/c23M/grrrrrreat)](../../issues?q=label%3A"Great+Q%21"+is%3Aclosed)
+[![Read the Great Questions](https://wes.io/c23M/grrrrrreat)](../../issues?q=label%3A"Great+Q%21"+is%3Aclosed)
 
 If you have questions for me, this is a way anyone can read the answer!
 
