@@ -14,9 +14,9 @@ Anything means _virtually anything_. Personal questions. Money. Work. Life. Code
 
 ---
 
-I'm a full-stack web developer, primarily working for the web on platforms such as [Node.js](https://nodejs.org/) and IBM's [XPages runtime](http://xpages.info/) on the [Domino server](http://www.ibm.com/software/products/ibmdomino) stack. I have a passion for automation, git, Linux, and building better apps. I'm also an Army veteran and between my military service and return to coding, I worked in emergency medicine as an EMT in northern Minnesota.
+I'm a senior software developer, primarily working for the web on platforms such as [Node.js](https://nodejs.org/) with TypeScipt, serverless platforms, and I have a fair amount of history with (formerly IBM's) HCL [XPages runtime](http://xpages.info/) on the [Domino server](http://www.ibm.com/software/products/ibmdomino) stack. I have a passion for technology as a gateawy to better living, but not in chasing the latest shiny thing as sometimes simpler is just plain better. There's more and I have a crazy sounding resume at this point, but these days lead a mostly quiet life.
 
-I'm [@edm00se](https://twitter.com/edm00se) on twitter, I blog on development topics at [edm00se.io](https://edm00se.io/).
+I'm [@edm00se@hachyderm.io](https://hachyderm.io/@edm00se) on Mastodon, I used to blog regularly on development topics at [edm00se.io](https://edm00se.io/). My 
 
 ### Guidelines
 
